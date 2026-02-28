@@ -9,17 +9,17 @@ Automates querying assigned IT hardware from a SQL Server database, generating p
 
 ## 📑 Table of Contents
 
-1. [Python Modules Used](#-python-modules-used)
-2. [Configuration](#-configuration)
-3. [How It Works](#-how-it-works)
+1. [Python Modules Used](#🐍-python-modules-used)
+2. [Configuration](#⚙️-configuration)
+3. [How It Works](#📝-how-it-works)
    - [Helper Functions](#1-helper-functions)
    - [Main Workflow](#2-main-workflow-main)
    - [SQL Query Example](#3-sql-query-example)
    - [Email Structure](#4-email-structure)
-4. [Features](#-features)
-5. [Notes](#-notes)
-6. [Usage](#-usage)
-7. [Example Email Output](#-example-email-output)
+4. [Features](#✅-features)
+5. [Notes](#⚠️-notes)
+6. [Usage](#📌-usage)
+7. [Example Email Output](#📧-example-email-output)
 
 ---
 
