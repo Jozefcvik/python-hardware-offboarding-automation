@@ -63,7 +63,7 @@ Set these parameters at the top of the script:
 - `build_html_table(col_names, rows)` – Generates email-friendly HTML table of hardware.  
 - `send_email_with_attachment(to_email, subject, html_body, attachment_path, cc_emails)` – Sends email with XLSX attachment and optional CC.
 
----
+##
 
 ### 2. Main Workflow (`main()`)
 
@@ -76,7 +76,7 @@ Set these parameters at the top of the script:
 5. **Send Emails** with inline HTML table and XLSX attachment.  
 6. **Print Summary** of emails sent and rows written.  
 
----
+##
 
 ### 3. SQL Query Example
 
@@ -100,7 +100,7 @@ WHERE LTRIM(RTRIM(e.GivenName)) = LTRIM(RTRIM(?))
 - Fetches all hardware assigned to a given employee.
 - Parameters `(GivenName, Surname)` are passed per employee.
 
----
+##
 
 ### 4. Email Structure
 
